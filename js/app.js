@@ -1,8 +1,4 @@
-const personas = [
-    new Persona("Juan", "Perez"),
-    new Persona("Carla", "Lara"),
-    new Persona("Pepe", "Motorola")
-];
+const personas = [];
 
 function mostrarPersonas(){
     console.log("Mostrar Personas");
